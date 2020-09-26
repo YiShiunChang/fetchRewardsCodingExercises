@@ -1,0 +1,5 @@
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:15:49:59 -0500] "GET /fetchRewards HTTP/1.1" 200 4158 http-bio-8080-exec-1 569
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:15:51:13 -0500] "POST /isPyramid HTTP/1.1" 200 14 http-bio-8080-exec-3 17
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:15:51:17 -0500] "POST /isPyramid HTTP/1.1" 200 14 http-bio-8080-exec-4 3
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:15:51:21 -0500] "POST /isPyramid HTTP/1.1" 200 14 http-bio-8080-exec-5 3
+0:0:0:0:0:0:0:1 - - [26/Sep/2020:15:51:32 -0500] "POST /isPyramid HTTP/1.1" 200 14 http-bio-8080-exec-6 3
