@@ -21,3 +21,8 @@ Fetch Rewards Coding Exercises for Backend Software Engineering
 	Simple class for solving whether a word is a pyramid word.
 	- UnqiueEmail.jaba
 	Simple class for solving the number of unique email addresses.
+
+5. How to use
+	After you deploy it on a tomcat7 server, you can access the web page through http://localhost:8080/fetchRewards.
+	fetchRewardsCodingExercises/src/main//webapp/resources stores an example of the web page
+	
